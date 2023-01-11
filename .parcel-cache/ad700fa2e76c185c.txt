@@ -1211,7 +1211,7 @@
 70F:\Github\Namaste-react-02\node_modules\svgo\plugins\removeMetadata.js121436361000000000 0
 68F:\Github\Namaste-react-02\node_modules\@parcel\package-manager\test133178401573265912 1
 54F:\Github\Namaste-react-02\node_modules\braces\LICENSE121436361000000000 0
-44F:\Github\Namaste-react-02\Coding\index.html133179002697974658 0
+44F:\Github\Namaste-react-02\Coding\index.html133179014681686419 0
 87F:\Github\Namaste-react-02\node_modules\@jridgewell\set-array\dist\types\set-array.d.ts121436361000000000 0
 74F:\Github\Namaste-react-02\node_modules\css-what\lib\commonjs\stringify.js121436361000000000 0
 86F:\Github\Namaste-react-02\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js121436361000000000 0
@@ -4348,4 +4348,4 @@
 55F:\Github\Namaste-react-02\node_modules\.bin\terser.cmd133178401664483644 0
 50F:\Github\Namaste-react-02\dist\coding.255859c6.js133179001693747710 0
 42F:\Github\Namaste-react-02\dist\index.html133179001693447545 0
-42F:\Github\Namaste-react-02\Coding\index.js133178997479766493 0
+42F:\Github\Namaste-react-02\Coding\index.js133179013001383353 0
