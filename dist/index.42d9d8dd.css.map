@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["coding/style.css"],"sourcesContent":[".class {\r\n    background-color: darkred;\r\n    color: ghostwhite;\r\n    text-align: center;\r\n    font-size: larger;\r\n    font-family: Arial, Helvetica, sans-serif;\r\n}"],"names":[],"version":3,"file":"index.42d9d8dd.css.map","sourceRoot":"/__parcel_source_root/"}
